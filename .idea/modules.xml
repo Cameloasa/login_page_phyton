@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LoginPagePhyton.iml" filepath="$PROJECT_DIR$/.idea/LoginPagePhyton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/login_page_phyton.iml" filepath="$PROJECT_DIR$/.idea/login_page_phyton.iml" />
     </modules>
   </component>
 </project>
